@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: kushal9897/my-nodejs-app:f175b974fb4633d0415aa07326cf15c3b0305ffd
+        image: kushal9897/my-nodejs-app:4a10e7f73355b7c75479f36a80861ed5b8963b41
         ports:
         - containerPort: 3000
         env:
