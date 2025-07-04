@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: YOUR_DOCKERHUB_USERNAME/my-nodejs-app:latest
+        image: kushal9897/my-nodejs-app:v1
         ports:
         - containerPort: 3000
         env:
